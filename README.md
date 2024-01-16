@@ -7,3 +7,7 @@ Desafio de Projeto criado para avaliação do conteúdo técnico explorado no re
 TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
 ```
 **Este Fork é para responder a resolução do problema referido acima.**
+
+```kotlin
+"A resposta para o desafio proposto no projeto está no arquivo [ProjetoR.kt]💾" 
+```
